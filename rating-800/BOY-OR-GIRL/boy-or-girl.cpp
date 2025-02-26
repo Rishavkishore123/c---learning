@@ -21,9 +21,6 @@ void findboyorGirl(string str){
 
 }
 
-
-
-
 int main(){
     string a;
     cin>>a;
